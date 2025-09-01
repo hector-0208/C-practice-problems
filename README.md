@@ -1,4 +1,5 @@
-# C Practice Problems
+![C](https://img.shields.io/badge/language-C-blue)
+# C Practice Problems 
 
 This repository contains a collection of C programming practice problems I solved during my college lab classes.  
 The problems are organized by date to reflect my progress over time.
